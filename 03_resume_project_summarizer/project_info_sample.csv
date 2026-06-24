@@ -1,0 +1,4 @@
+project_name,role,tech_stack,main_task,result
+DATA 다타,기획 및 DB/ES 설계,Python FastAPI MariaDB Elasticsearch HTML CSS JavaScript,경제 뉴스 분석 서비스 요구사항 정리와 DB 및 Elasticsearch 구조 설계,뉴스 키워드 감성 관점 분석 서비스 구현
+YOLO 실습,객체 탐지 실습,Python YOLO OpenCV,이미지 데이터 기반 객체 탐지 모델 실습,객체 탐지 결과 분석 흐름 학습
+미니 프로젝트,개인 프로젝트 개발,Python pandas matplotlib,CSV 데이터를 활용한 분석 프로그램 구현,분석 결과 CSV와 그래프 생성
