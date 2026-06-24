@@ -1,0 +1,4 @@
+﻿class_name,detection_count,avg_confidence
+dog,6,0.8533333333333334
+cat,2,0.74
+person,2,0.825
