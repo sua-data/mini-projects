@@ -2,6 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
 
+# 한글 폰트 설정 - Windows
+plt.rcParams["font.family"] = "Malgun Gothic"
+plt.rcParams["axes.unicode_minus"] = False
+
 # 뉴스 데이터 불러오기
 df = pd.read_csv("news_sample.csv")
 
@@ -34,10 +38,10 @@ result_df.to_csv("keyword_result.csv", index=False, encoding="utf-8-sig")
 # 시각화
 plt.figure(figsize=(8, 5))
 plt.bar(result_df["keyword"], result_df["count"])
-plt.title("News Keyword Frequency")
-plt.xlabel("Keyword")
-plt.ylabel("Count")
+plt.title("뉴스 키워드 빈도 분석")
+plt.xlabel("키워드")
+plt.ylabel("빈도")
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("keyword_chart.png")
+plt.savefig("keyword_chart.png", dpi=300)
 plt.show()
