@@ -5,13 +5,13 @@ Python, 데이터 분석, 머신러닝, YOLO 실습을 기반으로 진행한 �
 
 ## 프로젝트 목록
 
-| No. | 프로젝트명                             | 설명                               | 주요 기술                      |
-| --- | --------------------------------- | -------------------------------- | -------------------------- |
-| 01  | Stomach Friendly Food Recommender | 위에 부담이 적은 음식 추천 프로그램             | Python, pandas             |
-| 02  | News Keyword Analyzer             | 뉴스 제목/본문 기반 키워드 빈도 분석            | Python, pandas, matplotlib |
-| 03  | Resume Project Summarizer         | 프로젝트 경험을 이력서/README 문장으로 정리하는 도구 | Python, file I/O        |
-| 04  | YOLO Result Analyzer              | YOLO 탐지 결과를 클래스별로 분석하는 도구        | Python, pandas, matplotlib |
-| 05  | Job Posting Keyword Analyzer      | 채용공고에서 주요 기술스택 키워드를 분석하는 도구 | Python, pandas, matplotlib  |
+| No. | 프로젝트명 | 설명 | 주요 기술 | 상태 |
+|---|---|---|---|---|
+| 01 | Stomach Friendly Food Recommender | 위에 부담이 적은 음식 추천 프로그램 | Python, pandas | 완료 |
+| 02 | News Keyword Analyzer | 뉴스 제목/본문 기반 키워드 빈도 분석 | Python, pandas, matplotlib | 완료 |
+| 03 | Resume Project Summarizer | 프로젝트 경험을 이력서/README 문장으로 정리하는 도구 | Python, file I/O | 완료 |
+| 04 | YOLO Result Analyzer | YOLO 탐지 결과를 클래스별로 분석하는 도구 | Python, pandas, matplotlib | 완료 |
+| 05 | Job Posting Keyword Analyzer | 채용공고에서 주요 기술스택 키워드를 분석하는 도구 | Python, pandas, matplotlib | 완료 |
 
 ---
 
