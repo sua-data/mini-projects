@@ -1,0 +1,13 @@
+food_name,category,spicy,greasy,contains_flour,contains_caffeine,description
+죽,한식,False,False,False,False,부드럽고 소화가 쉬운 음식
+계란찜,한식,False,False,False,False,자극이 적고 단백질 보충에 좋은 음식
+바나나,과일,False,False,False,False,간단하게 먹기 좋고 위에 부담이 적은 음식
+두부,한식,False,False,False,False,부드럽고 담백한 단백질 식품
+콩나물국,한식,False,False,False,False,맵지 않게 조리하면 부담이 적은 국물 음식
+흰쌀밥,한식,False,False,False,False,자극이 적은 기본 식사
+샐러드,간편식,False,False,False,False,드레싱을 적게 사용하면 비교적 부담이 적은 음식
+라면,면류,True,True,True,False,맵고 기름지며 밀가루가 포함된 음식
+떡볶이,분식,True,False,False,False,매운 양념이 들어간 자극적인 음식
+커피,음료,False,False,False,True,카페인이 포함된 음료
+튀김,분식,False,True,True,False,기름지고 밀가루가 포함된 음식
+빵,간식,False,False,True,False,밀가루가 포함된 음식
