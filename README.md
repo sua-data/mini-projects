@@ -9,9 +9,9 @@ Python, 데이터 분석, 머신러닝, YOLO 실습을 기반으로 진행한 �
 | --- | --------------------------------- | -------------------------------- | -------------------------- |
 | 01  | Stomach Friendly Food Recommender | 위에 부담이 적은 음식 추천 프로그램             | Python, pandas             |
 | 02  | News Keyword Analyzer             | 뉴스 제목/본문 기반 키워드 빈도 분석            | Python, pandas, matplotlib |
-| 03  | Resume Project Summarizer         | 프로젝트 경험을 이력서/README 문장으로 정리하는 도구 | Python, file I/O           |
+| 03  | Resume Project Summarizer         | 프로젝트 경험을 이력서/README 문장으로 정리하는 도구 | Python, file I/O        |
 | 04  | YOLO Result Analyzer              | YOLO 탐지 결과를 클래스별로 분석하는 도구        | Python, pandas, matplotlib |
-| 05  | Hardness Profile Analyzer         | 금속 적층부 경도 측정값 분석 도구              | Python, pandas, matplotlib |
+| 05  | Job Posting Keyword Analyzer      | 채용공고에서 주요 기술스택 키워드를 분석하는 도구 | Python, pandas, matplotlib  |
 
 ---
 
@@ -99,17 +99,17 @@ YOLO 객체 탐지 결과를 분석하는 미니 프로젝트입니다.
 
 ---
 
-## 05. Hardness Profile Analyzer
+## 05. Job Posting Keyword Analyzer
 
-금속 적층부 단면의 경도 측정값을 분석하는 프로젝트입니다.
-기판, 접합부, 기공층, 상부 적층부 등 위치별 경도값을 비교하여 경도 구배를 확인합니다.
+채용공고 데이터를 기반으로 주요 기술스택 키워드를 분석하는 프로젝트입니다.  
+공고 제목과 직무 설명에서 Python, SQL, FastAPI, React, Docker 등 개발·데이터 직무에서 자주 요구되는 기술 키워드의 등장 빈도를 확인합니다.
 
 ### 주요 기능
 
-* 위치별 경도 데이터 입력
-* 구간별 평균 경도 계산
-* 경도 구배 그래프 생성
-* 기공층 및 계면부 경도 변화 해석
+* 채용공고 데이터 입력
+* 기술스택 키워드 빈도 계산
+* 직무별 요구 기술 비교
+* 기술 키워드 빈도 그래프 생성
 
 ### 사용 기술
 

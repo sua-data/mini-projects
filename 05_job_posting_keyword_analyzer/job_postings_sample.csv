@@ -1,0 +1,11 @@
+job_id,job_title,description
+1,데이터 분석가,Python과 SQL을 활용한 데이터 분석 및 시각화 경험이 필요합니다.
+2,백엔드 개발자,FastAPI와 MySQL 기반 API 개발 경험을 우대합니다.
+3,AI 서비스 개발자,Python 머신러닝 모델과 Docker 배포 경험이 필요합니다.
+4,프론트엔드 개발자,React와 JavaScript를 활용한 웹 화면 개발 경험이 필요합니다.
+5,데이터 엔지니어,SQL Python ETL 파이프라인과 Docker 사용 경험을 우대합니다.
+6,웹 개발자,HTML CSS JavaScript 기반 웹 서비스 개발 경험이 필요합니다.
+7,AI 데이터 분석가,Python pandas scikit-learn 기반 분석 경험을 우대합니다.
+8,백엔드 엔지니어,FastAPI MariaDB Elasticsearch 연동 경험이 있으면 좋습니다.
+9,검색 서비스 개발자,Elasticsearch와 Python 기반 검색 시스템 개발 경험을 우대합니다.
+10,주니어 개발자,Python SQL Git 기본 사용 능력이 필요합니다.
